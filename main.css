@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: "Varela Round", sans-serif; }
+
+.left-pane {
+  height: 720px;
+  width: 340px;
+  background: #ea728a;
+  float: left;
+  display: inline-block; }
+  .left-pane header {
+    height: auto;
+    width: 360px;
+    margin: 40px 0 0 216px;
+    padding: 10px 0 5px 40px;
+    color: #fff; }
+    .left-pane header a {
+      text-decoration: none; }
+    .left-pane header #java-h4 {
+      padding: 0 0 0 18px; }
+    .left-pane header #web-des-h4 {
+      padding: 0 0 0 46px; }
+    .left-pane header #web-dev-h4 {
+      padding: 0 0 0 9px; }
+    .left-pane header #mob-apps-h4 {
+      margin: auto 11px 0 -12px; }
+    .left-pane header #mob-h4 {
+      padding: 0 0 0 27px; }
+    .left-pane header #e-mail-h4 {
+      padding: 2px 0 0 0px;
+      margin: 2px 0 0 -5px; }
+      .left-pane header #e-mail-h4 img {
+        height: 16px;
+        width: 22px; }
+    .left-pane header #linked-in-h4 {
+      margin: 2px 0 0 -2px;
+      padding: 4px 0 4px 60px; }
+      .left-pane header #linked-in-h4 img {
+        height: 22px;
+        width: 22px; }
+    .left-pane header #twitter-h4 {
+      padding: 0 0 0 60px; }
+      .left-pane header #twitter-h4 img {
+        height: 22px;
+        width: 22px; }
+    .left-pane header span {
+      color: #ea728a; }
+    .left-pane header #name-span {
+      color: #ea728a; }
+    .left-pane header #java-span {
+      padding-left: 5px; }
+    .left-pane header #web-des-span {
+      padding-left: 6px; }
+    .left-pane header #web-dev-span {
+      padding-left: 7px; }
+    .left-pane header #mob-apps-span {
+      padding-left: 6px; }
+    .left-pane header #mob-span {
+      padding-left: 6px; }
+    .left-pane header #e-mail-span {
+      padding-left: 6px; }
+    .left-pane header #linked-in-span {
+      padding-left: 2px; }
+    .left-pane header #twitter-span {
+      padding-left: 0px; }
+
+.right-pane {
+  height: 426px;
+  width: 840px;
+  display: inline-block;
+  margin: 248px auto auto;
+  padding: 40px 5px 5px 28px;
+  text-align: justify;
+  color: #580818; }
+  .right-pane #name {
+    background: #fff;
+    box-shadow: 0 0 20px #ea728a;
+    padding: 10px 15px;
+    color: #ea728a;
+    font-weight: bold; }
+
+/*# sourceMappingURL=main.css.map */
